@@ -1,0 +1,43 @@
+4⁶0 Nnexux. Lacr. xxv. srATn CUIUSDAM
+
+- ideoque curv'a B E F G m κάκ tangenti B C.
+
+. Si itaque reeca B C instar fili involvatur circa'curvam Β Ε F G,
+curva C H 1 K, quam terminus C describit, erit curva quae ex evolu-
+tione Logarithmicae Spiralis B E F G generatur. Dico hanc curvam
+C H 1 K effe eandem Spiralemi Producatut enim Β Α quantum opus.
+est ‚ cui ocurrat C D perpendicularis ad B C 3 quoniam vero
+Β C' etiam perpendicularis est ad curvam C H , erit CD tan·
+gens curvae C H; sed , ob fimilitudinem triangulorum ΒΛ C δι
+C A D ‚ angulus C Β Α est aequalis angulo D C A3 ideoque an-
+gulus D C A etiam est constans: proinde curva CH 11( est Lo-
+* garithmica Spirali83 & quidem eadem cum BF, FG, ob aequali-
+
+tatem angulorum CBA & DCA. Q E. D.
+
+. Coma. I. Si Spiralis Logarithmica quaevis B E F G extendatur
+in reetam B C ‚ devenient B A ‚ MA διε. ordinatim applicatae
+in triangulo tetstangulo BAC3 nam ob angulum ΑΒΜ coni?-
+tantem ‚ erunt B A, Μ Α &c. parallelae‚ & quia sunt in ratione
+constante cum curvae portionibus conterminis , constat propoli-
+· tum. Ideoque ‚ quemadmodum Spiralis Archimeden est Para-
+bola convoluta ς ita Logarithmica Spiralis est Triangulum refran-
+gulum convolutum. -
+
+Coroll. ΙΙ. Triangulum ΒΑΘ est duplum spatii BEFG ,
+quia differentiale trianguli est duplum differentialis spatii.
+
+LECTIO VIGESIMA QUINTA.
+Spatia· cujusc'lam Cycloidalis Qadratnra absblutae.
+
+Revis ista ‚ quam feclinus ‚ digreffio satis ostendit , quod
+
+non 'fit sola Cyclois , cui competit toties repetita proprie-
+tas 3 adeo ut allata Spiralis Logarithmica non fine probabilitate
+conjecturam movere poffit, quod multae aiiae, quin imo infini-
+tae dentur curvae , quae evolutione sua easdem aut saltem fibi
+fimiles forment ς & forfim difficile non effer, ope Calculi nostri
+integralium, modum excogitare, quo tales curvae reperiuntur ε
+quia autem nunc non vacat hoc praestare , aliis relinquendum
+ests interim redeamus ad Cycloides. Sit
+

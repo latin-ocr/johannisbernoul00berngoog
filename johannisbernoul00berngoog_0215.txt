@@ -1,0 +1,53 @@
+J
+
+DANS LES MILIEUX RE‘SISTANS. 193*
+
+trouver ‚ en retrogradam ‚ par cette Equation exponentielle ,'
+quoique fort composee ‚ a par b , & reciproquement b par a ‚
+ce qui seroit peut-&tre fort difficile a trouver i priori.
+
+XXX.
+
+Scnoztz. Par ce que nous avons· demontre [ς. 23] l’on
+pourra encore determinet le plus grand arc poffible remonte ‚
+comme auffi la plus grande absciffe qui lui convient. Cela se
+peut par le moyen de l’equation trouvee [ §- 1 1 ] b :z
+
+nl( 2 cam -- 1 )--‘ae‚· ou de cette autre equivalente dont nous
+
+venons de parket , b =—....-nl( 2 -i-c-“m ) ‚ substituant dans l’u-
+ne ou dans l’autre pour ι ce qu’on a trouve ci-deffus [§· 23 ]
+nl((mm 4· 2 n).· 2η) pour le plus grand arc descendu; car
+l’on aura b ‚ ou le plus grand arc remonte [ en se servant de
+
+la derniere formule =.= n l( 2 -c‘¹((mm÷²n)² ²²²) ). M'ais
+cette expression etant embaraffee δε peu elegante , εἴ cause de·
+l'exposant logarithmique contenu sous un autre figne logarith-
+mique3 voici une maniere particuliere de la reduire ὲ une
+expreffion logarithmique {imple δε ordinaire. Je fais . ., .
+
+-l((mm42n).· 2n) --l((mm -Ι- 2η) 2 2n) ...-
+
+2 ——c xz, partant c
+
+2—z, & leurs logarith.--l((mm·†·2n): 2n)..-.: l(2—-z)
+d’oi1 repaffant aux nombres , ὲ la maniere ordinaire , l’on aura
+2η.- (mm-4· zn) Ξ 2--z3 doncz: ( vum-i· 2n).· (mm-{- 2n)
+
+&2--5 ¹((mm÷2n)³ ²²²):z (zmm42n):(mm'÷2n),& ι
+
+---l((mm-}-2n)= 3111)) τε n l( 2mm÷333>= au plus grand
+
+ 
+
+mm-l-zn
+arc total remonte.
+
+XXXI.
+
+C OROL L. L'on peut par-131 tronver la plus grande lon-
+gueur de toute la Tautochrone‚ c’est-d-dire‚ celle que le mo-
+bile peut parcourir pendant une oscillation entiere , en descen-
+
+·Joan. Bernoulli Opera omnia Tom. Π I. B b dant ·
+

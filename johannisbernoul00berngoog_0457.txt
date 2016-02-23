@@ -1,0 +1,45 @@
+TANGEN YIUM‘INVERSA. -, 41⁷· .
+
+, His proeliminatis , sequentia Problemata facile solvuntur in
+hunc modum.
+
+1. -Qaeritur qualis fit curva AB cuius subtangens CD est Tffififf
+aequalis duplae absciffae AC? Sit AC εκ, BC -..==y‚ erit ,
+per hypothefin , zx: yma-dx: dy3 ideoque ydx 22.- zxdy. Si
+hoc , per Regulam primam , invenire vellemus , aequa'tio re-
+ducenda esset ad hanc dx: qe== zdr: y. Qoniam autem utrius-
+que integrale aequatur infinito 3 ex hoc natura curvae non ha-
+betur3 ideoque Problema resolvi debet per hunc alterum mo-
+dum t ydx z zxdy‚ ergo 2xdy ——ydx ..-..--.’ o z( 2xdy —- ydx)
+>< y: xx3 Hujus itaque integrale, quod', per praecedentia, est ae-
+quale yy t x, debet aequari constanti cuidam. Sit igitur yy ε x===b3
+habebitur yy =bx3 ex quibus sequitur curvam quaefitam A B
+essebParabolam ‚ cujus parameter aequalis est cuilibet assump-
+tae .
+
+Π. Sit nunc subtangens DC Ξ 3 AC, erit, per hypothesin,
+με] zdx: dy, proinde ydx= 3xdy‚ & ΒΜ] -ydx= o
+z (3xdy -,. ydx) ><yys xx. Hujus autem integrale ‚ per prae-
+cedentia, est y* ε κς erit ergoy⁸ ε x ==bb, vel y³ zbbx ,· ‘quae
+equatio· est pro Parabola ,cubicali rima cujus purameter == b.
+‚ Ill. Sit generaliter DC=a >< -C , erit ax: y ε dx: dy,
+ideoque yth-:adh δε aexdy -ydx--zo z (ax dy -ydx)
+
+t xx3 cujus integrale est ja τ x, ideoque y⁶ :x -..-..·-· ba--r
+
+-xya—-I
+vel 'y‘ --...-·- b‘ff'q κς quod denotat curvam ex Paraboloi‘deorum
+² encre. .
+g IV. Determinanda est natura curvae A B, quoe hanc habet
+proprietatem ‚ ut spatium A C B Ξ s, fit semper subtriplum ¹⁸¹&ka
+reditanguli circumscripti ADBC. Per hypoth. 3s ετ. xy, proin·
+de 3ds, id est, 3ydxz-a‘dy‘†ydx; & zydx--xdyzozz
+( 25 dx— κώ) ><x :5²- Hujus ergo integrale , quod est xxzy,
+aequabitur b , vel xx ..-.-.-.. by3 quod ostendit curvam AB iterum
+effe Parabolam.
+
+Accidit interdum 2 ut aequatio proveniens, in x , ,y , dx , δι
+λ] , non constet tantummodo duobus membris„ ficuti in exem-4
+
+Joaen. Bernoulli Opera omnia 'T0m. III. G g g plis
+
